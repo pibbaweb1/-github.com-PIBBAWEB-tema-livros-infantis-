@@ -1,0 +1,13 @@
+meus-livros-infantis/
+├── style.css                 # Estilos principais
+├── functions.php             # Todas as funções PHP
+├── header.php                # Cabeçalho do site
+├── footer.php                # Rodapé do site
+├── index.php                 # Template da página inicial
+├── single-livro.php          # Template para páginas individuais de livros
+├── archive-livro.php         # Template para arquivo de livros
+├── js/
+│   └── scripts.js            # JavaScript para interações
+└── assets/
+    ├── images/               # Imagens padrão (substitua pelas suas)
+    └── css/                  # CSS adicional (opcional)
